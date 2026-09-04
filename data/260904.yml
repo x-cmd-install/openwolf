@@ -7,7 +7,7 @@ about:
   head: 06ed881
   archived: false
   latestVersion: v2.5.1
-  collectedAt: 2026-09-04T20:03:05Z
+  collectedAt: 2026-09-04T20:37:32Z
 timeline:
   created: 2026-03-15
   lastCommit: 2026-08-29
@@ -83,5 +83,58 @@ total:
   openIssue: 27
   commit: 111
 ---
+path: /home/runner/.x-repo/github.com/cytostack/openwolf
+collectedAt: 2026-09-04T20:37:34Z
+loc:
+  TypeScript:
+    code: 15766
+    comments: 2262
+    blanks: 1829
+    files: 119
+  Json:
+    code: 3592
+    comments: 0
+    blanks: 0
+    files: 10
+  Yaml:
+    code: 3559
+    comments: 0
+    blanks: 987
+    files: 1
+  Tsx:
+    code: 1724
+    comments: 53
+    blanks: 101
+    files: 19
+  JavaScript:
+    code: 209
+    comments: 31
+    blanks: 32
+    files: 2
+  Css:
+    code: 132
+    comments: 12
+    blanks: 14
+    files: 1
+  Html:
+    code: 15
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2628
+    blanks: 721
+    files: 37
+total:
+  code: 25090
+  comments: 4987
+  blanks: 3684
+  files: 191
 ---
 
