@@ -37,7 +37,7 @@ Total: **24,998** lines of code across **151** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,281 · **Forks**: 206 · **Open issues**: 56 · **Contributors**: 21
+- **Stars**: 2,280 · **Forks**: 206 · **Open issues**: 56 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -63,4 +63,4 @@ Install metadata for openwolf lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:49:45Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:15:34Z._
