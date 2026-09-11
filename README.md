@@ -12,6 +12,18 @@ Portable project memory across Claude Code, Codex and OpenCode, plus token accou
 x install openwolf
 ```
 
+## Code insight
+
+Total: **24,998** lines of code across **151** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 15,766 | 2,262 | 1,829 | 119 |
+| Json | 3,592 | 0 | 0 | 10 |
+| Yaml | 3,559 | 0 | 987 | 1 |
+| Tsx | 1,724 | 53 | 101 | 19 |
+| JavaScript | 209 | 31 | 32 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/cytostack/openwolf>
@@ -35,21 +47,12 @@ x install openwolf
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 9 | 1 | 5 | 17 | 4 | 38 |
-| 90d | 2026-06-12 | 11 | 4 | 18 | 19 | 9 | 68 |
-| 360d | 2025-09-15 | 11 | 12 | 28 | 28 | 28 | 98 |
-
-## Code size
-
-Total: **24,998** lines of code across **151** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 15,766 | 2,262 | 1,829 | 119 |
-| Json | 3,592 | 0 | 0 | 10 |
-| Yaml | 3,559 | 0 | 987 | 1 |
-| Tsx | 1,724 | 53 | 101 | 19 |
-| JavaScript | 209 | 31 | 32 | 2 |
+| 30d | 2026-08-12 | 9 | 1 | 5 | 17 | 4 | 38 |
+| last60d | 2026-07-13 | 11 | 1 | 18 | 17 | 9 | 47 |
+| 90d | 2026-06-13 | 11 | 4 | 18 | 19 | 9 | 68 |
+| last180d | 2026-03-15 | 11 | 12 | 28 | 28 | 28 | 97 |
+| 360d | 2025-09-16 | 11 | 12 | 28 | 28 | 28 | 98 |
+| last720d | 2024-09-21 | 11 | 12 | 28 | 28 | 28 | 111 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for openwolf lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:38:09Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:10:48Z._
