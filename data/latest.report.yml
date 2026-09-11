@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.5.1"
   latestRelease: "v2.5.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:49:40Z
+  collectedAt: 2026-09-11T20:15:22Z
 timeline:
   created: 2026-03-15
   lastCommit: 2026-08-29
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-29
   lastPrerelease: 
 popularity:
-  star: 2281
+  star: 2280
   watcher: 11
   fork: 206
   release: 11
@@ -86,7 +86,7 @@ total:
   commit: 111
 ---
 path: /home/runner/.x-repo/github.com/cytostack/openwolf
-collectedAt: 2026-09-11T04:49:42Z
+collectedAt: 2026-09-11T20:15:28Z
 loc:
   TypeScript:
     code: 15766
