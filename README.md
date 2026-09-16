@@ -14,15 +14,15 @@ x install openwolf
 
 ## Code insight
 
-Total: **24,998** lines of code across **151** files in the top 5 languages.
+Total: **30,995** lines of code across **213** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 15,766 | 2,262 | 1,829 | 119 |
-| Json | 3,592 | 0 | 0 | 10 |
-| Yaml | 3,559 | 0 | 987 | 1 |
-| Tsx | 1,724 | 53 | 101 | 19 |
-| JavaScript | 209 | 31 | 32 | 2 |
+| TypeScript | 20,294 | 2,499 | 1,911 | 169 |
+| Json | 5,230 | 0 | 0 | 17 |
+| Yaml | 3,199 | 0 | 912 | 1 |
+| Tsx | 1,833 | 56 | 109 | 21 |
+| JavaScript | 291 | 37 | 33 | 5 |
 
 ## Source
 
@@ -32,27 +32,34 @@ Total: **24,998** lines of code across **151** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.5.1` (2026-08-29)
-- **Last commit**: 2026-08-29
+- **Latest**: `v2.5.2` (2026-09-15)
+- **Last commit**: 2026-09-15
+- **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 2,313 · **Forks**: 207 · **Open issues**: 56 · **Contributors**: 21
+- **Stars**: 2,327 · **Forks**: 209 · **Open issues**: 56 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 12 · **Open PRs**: 27 · **Closed issues**: 28 · **Open issues**: 28 · **Commits**: 111
+- **Releases**: 12 · **Merged PRs**: 12 · **Open PRs**: 27 · **Closed issues**: 29 · **Open issues**: 27 · **Commits**: 123
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 9 | 1 | 6 | 17 | 4 | 15 |
-| last60d | 2026-07-17 | 9 | 1 | 15 | 17 | 9 | 38 |
-| 90d | 2026-06-17 | 11 | 4 | 17 | 19 | 9 | 68 |
-| last180d | 2026-03-19 | 11 | 12 | 27 | 28 | 28 | 78 |
-| 360d | 2025-09-20 | 11 | 12 | 27 | 28 | 28 | 98 |
-| last720d | 2024-09-25 | 11 | 12 | 27 | 28 | 28 | 111 |
+| 30d | 2026-08-17 | 10 | 1 | 6 | 18 | 3 | 26 |
+| last60d | 2026-07-18 | 10 | 1 | 14 | 18 | 8 | 49 |
+| 90d | 2026-06-18 | 12 | 4 | 17 | 20 | 8 | 79 |
+| last180d | 2026-03-20 | 12 | 12 | 27 | 29 | 27 | 89 |
+| 360d | 2025-09-21 | 12 | 12 | 27 | 29 | 27 | 109 |
+| last720d | 2024-09-26 | 12 | 12 | 27 | 29 | 27 | 123 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [openwolf-2.5.2.tgz](https://github.com/cytostack/openwolf/releases/download/v2.5.2/openwolf-2.5.2.tgz) | 663.9 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -63,4 +70,4 @@ Install metadata for openwolf lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:21:45Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:09:51Z._
