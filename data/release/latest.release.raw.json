@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 679811,
       "digest": "sha256:901a7293536fc9e451a0fecf007c7e7fb1ce22c5edf8acea87dfe43dd08e7677",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-15T15:53:41Z",
       "updated_at": "2026-09-15T15:53:42Z",
       "browser_download_url": "https://github.com/cytostack/openwolf/releases/download/v2.5.2/openwolf-2.5.2.tgz"
