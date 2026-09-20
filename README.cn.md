@@ -4,7 +4,7 @@
 
 Portable project memory across Claude Code, Codex and OpenCode, plus token accounting measured from harness transcripts. Local file I/O, no API calls, no telemetry.
 
-![openwolf](https://repo.x-cmd.io/openwolf.svg?lang=zh)
+[![x-cmd/install — openwolf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/openwolf.svg?lang=zh)](https://x-cmd.com/install/openwolf)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install openwolf
 
 ## 流行度
 
-- **Star**: 2,342 · **Fork**: 209 · **开放 issue**: 57 · **贡献者**: 21
+- **Star**: 2,351 · **Fork**: 212 · **开放 issue**: 60 · **贡献者**: 21
 
 ## 累计统计
 
-- **发布数**: 12 · **已合并 PR**: 12 · **开放 PR**: 28 · **已关闭 issue**: 29 · **开放 issue**: 28 · **提交数**: 123
+- **发布数**: 12 · **已合并 PR**: 12 · **开放 PR**: 29 · **已关闭 issue**: 29 · **开放 issue**: 31 · **提交数**: 123
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 9 | 1 | 7 | 17 | 4 | 26 |
-| last60d | 2026-07-20 | 10 | 1 | 15 | 18 | 9 | 49 |
-| 90d | 2026-06-20 | 12 | 4 | 18 | 19 | 9 | 79 |
-| last180d | 2026-03-22 | 12 | 12 | 28 | 27 | 28 | 89 |
-| 360d | 2025-09-23 | 12 | 12 | 28 | 29 | 28 | 109 |
-| last720d | 2024-09-28 | 12 | 12 | 28 | 29 | 28 | 123 |
+| 30d | 2026-08-21 | 3 | 1 | 8 | 17 | 7 | 13 |
+| last60d | 2026-07-22 | 10 | 1 | 16 | 18 | 12 | 49 |
+| 90d | 2026-06-22 | 12 | 4 | 19 | 19 | 12 | 78 |
+| last180d | 2026-03-24 | 12 | 12 | 29 | 27 | 31 | 89 |
+| 360d | 2025-09-25 | 12 | 12 | 29 | 29 | 31 | 109 |
+| last720d | 2024-09-30 | 12 | 12 | 29 | 29 | 31 | 123 |
 
 ## Release 资产
 
@@ -70,4 +70,4 @@ openwolf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:54:27Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:08:33Z._

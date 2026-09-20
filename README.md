@@ -4,7 +4,7 @@
 
 Portable project memory across Claude Code, Codex and OpenCode, plus token accounting measured from harness transcripts. Local file I/O, no API calls, no telemetry.
 
-![openwolf](https://repo.x-cmd.io/openwolf.svg)
+[![x-cmd/install — openwolf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/openwolf.svg)](https://x-cmd.com/install/openwolf)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **30,995** lines of code across **213** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,342 · **Forks**: 209 · **Open issues**: 57 · **Contributors**: 21
+- **Stars**: 2,351 · **Forks**: 212 · **Open issues**: 60 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 12 · **Open PRs**: 28 · **Closed issues**: 29 · **Open issues**: 28 · **Commits**: 123
+- **Releases**: 12 · **Merged PRs**: 12 · **Open PRs**: 29 · **Closed issues**: 29 · **Open issues**: 31 · **Commits**: 123
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 9 | 1 | 7 | 17 | 4 | 26 |
-| last60d | 2026-07-20 | 10 | 1 | 15 | 18 | 9 | 49 |
-| 90d | 2026-06-20 | 12 | 4 | 18 | 19 | 9 | 79 |
-| last180d | 2026-03-22 | 12 | 12 | 28 | 27 | 28 | 89 |
-| 360d | 2025-09-23 | 12 | 12 | 28 | 29 | 28 | 109 |
-| last720d | 2024-09-28 | 12 | 12 | 28 | 29 | 28 | 123 |
+| 30d | 2026-08-21 | 3 | 1 | 8 | 17 | 7 | 13 |
+| last60d | 2026-07-22 | 10 | 1 | 16 | 18 | 12 | 49 |
+| 90d | 2026-06-22 | 12 | 4 | 19 | 19 | 12 | 78 |
+| last180d | 2026-03-24 | 12 | 12 | 29 | 27 | 31 | 89 |
+| 360d | 2025-09-25 | 12 | 12 | 29 | 29 | 31 | 109 |
+| last720d | 2024-09-30 | 12 | 12 | 29 | 29 | 31 | 123 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for openwolf lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:54:27Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:08:33Z._
