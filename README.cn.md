@@ -4,7 +4,7 @@
 
 Portable project memory across Claude Code, Codex and OpenCode, plus token accounting measured from harness transcripts. Local file I/O, no API calls, no telemetry.
 
-[![x-cmd/install — openwolf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/openwolf.svg?lang=zh)](https://x-cmd.com/install/openwolf)
+[![x-cmd/install — openwolf Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/openwolf.svg?lang=zh)](https://x-cmd.com/install/openwolf)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install openwolf
 
 ## 流行度
 
-- **Star**: 2,357 · **Fork**: 212 · **开放 issue**: 60 · **贡献者**: 21
+- **Star**: 2,358 · **Fork**: 213 · **开放 issue**: 60 · **贡献者**: 21
 
 ## 累计统计
 
-- **发布数**: 12 · **已合并 PR**: 12 · **开放 PR**: 26 · **已关闭 issue**: 29 · **开放 issue**: 31 · **提交数**: 123
+- **发布数**: 12 · **已合并 PR**: 12 · **开放 PR**: 25 · **已关闭 issue**: 29 · **开放 issue**: 31 · **提交数**: 123
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 1 | 8 | 2 | 7 | 13 |
-| last60d | 2026-07-24 | 10 | 1 | 16 | 18 | 10 | 49 |
-| 90d | 2026-06-24 | 12 | 4 | 18 | 19 | 12 | 78 |
-| last180d | 2026-03-26 | 12 | 12 | 26 | 27 | 31 | 89 |
-| 360d | 2025-09-27 | 12 | 12 | 26 | 29 | 31 | 109 |
-| last720d | 2024-10-02 | 12 | 12 | 26 | 29 | 31 | 123 |
+| 30d | 2026-08-24 | 3 | 1 | 7 | 1 | 7 | 13 |
+| last60d | 2026-07-25 | 10 | 1 | 16 | 18 | 10 | 49 |
+| 90d | 2026-06-25 | 12 | 4 | 18 | 19 | 12 | 78 |
+| last180d | 2026-03-27 | 12 | 12 | 25 | 27 | 31 | 89 |
+| 360d | 2025-09-28 | 12 | 12 | 25 | 29 | 31 | 109 |
+| last720d | 2024-10-03 | 12 | 12 | 25 | 29 | 31 | 123 |
 
 ## Release 资产
 
@@ -70,4 +70,4 @@ openwolf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:13:30Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:06:39Z._
