@@ -48,12 +48,12 @@ Total: **30,995** lines of code across **213** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 0 | 5 | 0 | 13 | 0 |
-| last60d | 2026-08-16 | 10 | 1 | 11 | 18 | 16 | 35 |
-| 90d | 2026-07-17 | 10 | 1 | 20 | 18 | 21 | 49 |
-| last180d | 2026-04-18 | 12 | 11 | 27 | 25 | 31 | 88 |
-| 360d | 2025-10-20 | 12 | 12 | 28 | 29 | 40 | 109 |
-| last720d | 2024-10-25 | 12 | 12 | 28 | 29 | 40 | 123 |
+| 30d | 2026-09-16 | 0 | 0 | 5 | 0 | 13 | 0 |
+| last60d | 2026-08-17 | 10 | 1 | 11 | 18 | 16 | 35 |
+| 90d | 2026-07-18 | 10 | 1 | 19 | 18 | 21 | 49 |
+| last180d | 2026-04-19 | 12 | 11 | 27 | 25 | 31 | 88 |
+| 360d | 2025-10-21 | 12 | 12 | 28 | 29 | 40 | 109 |
+| last720d | 2024-10-26 | 12 | 12 | 28 | 29 | 40 | 123 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for openwolf lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:50:17Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:37:42Z._
