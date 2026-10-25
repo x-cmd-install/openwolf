@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 645215,
       "digest": "sha256:950682678ce2faa8a90d552d70896929ac3d436aeb4593ac16aa6a661dcf9778",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-19T19:40:54Z",
       "updated_at": "2026-10-19T19:40:55Z",
       "browser_download_url": "https://github.com/cytostack/openwolf/releases/download/v2.5.3/openwolf-2.5.3.tgz"
