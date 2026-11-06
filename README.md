@@ -38,7 +38,7 @@ Total: **34,499** lines of code across **236** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,400 · **Forks**: 213 · **Open issues**: 70 · **Contributors**: 25
+- **Stars**: 2,398 · **Forks**: 213 · **Open issues**: 70 · **Contributors**: 25
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **34,499** lines of code across **236** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 1 | 2 | 2 | 4 | 17 |
-| last60d | 2026-09-06 | 2 | 1 | 6 | 6 | 8 | 30 |
-| 90d | 2026-08-07 | 11 | 2 | 12 | 25 | 12 | 68 |
-| last180d | 2026-05-09 | 13 | 7 | 22 | 29 | 20 | 101 |
-| 360d | 2025-11-10 | 13 | 13 | 27 | 36 | 34 | 128 |
-| last720d | 2024-11-15 | 13 | 13 | 27 | 36 | 34 | 143 |
+| 30d | 2026-10-07 | 1 | 1 | 2 | 2 | 4 | 17 |
+| last60d | 2026-09-07 | 2 | 1 | 6 | 6 | 8 | 30 |
+| 90d | 2026-08-08 | 11 | 2 | 12 | 25 | 12 | 68 |
+| last180d | 2026-05-10 | 13 | 7 | 22 | 29 | 20 | 101 |
+| 360d | 2025-11-11 | 13 | 13 | 27 | 36 | 34 | 128 |
+| last720d | 2024-11-16 | 13 | 13 | 27 | 36 | 34 | 143 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for openwolf lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:48:43Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:49:18Z._
